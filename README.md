@@ -1,1 +1,1 @@
-PowerShell Prank - Everyone seems to be writing pranks so I worked with GPT to make a PowerShell Prank that remaps A-Z as a fart noise with poop emoji tray icon so you can exit it! Replace the icon or fart .wav or filepath to customize it to your pranking needs!
+PowerShell Prank - Everyone seems to be writing pranks so I worked with GPT to make a PowerShell Prank that remaps A-Z as a fart noise with poop emoji tray icon so you can exit it! Replace the icon or fart .wav or filepath to customize it to your pranking needs! (I mentally may be 12 but who cares?)
